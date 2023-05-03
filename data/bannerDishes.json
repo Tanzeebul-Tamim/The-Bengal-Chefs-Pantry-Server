@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "name": "Doi Chicken",
+        "img": "https://www.licious.in/blog/wp-content/uploads/2022/05/shutterstock_1903754356-min-750x750.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Mutton Curry",
+        "img": "https://www.licious.in/blog/wp-content/uploads/2022/11/Shutterstock_1296739126-750x750.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Kolhapuri Kharda Chicken",
+        "img": "https://www.licious.in/blog/wp-content/uploads/2022/11/Shutterstock_1099209005-750x750.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Fish Tikka",
+        "img": "https://www.licious.in/blog/wp-content/uploads/2022/11/Shutterstock_1810030726-750x750.jpg"
+    }
+]
