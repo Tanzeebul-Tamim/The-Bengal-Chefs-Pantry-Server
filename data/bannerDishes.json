@@ -1,22 +1,32 @@
 [
     {
-        "id": "1",
+        "id": 1,
         "name": "Doi Chicken",
         "img": "https://www.licious.in/blog/wp-content/uploads/2022/05/shutterstock_1903754356-min-750x750.jpg"
     },
     {
-        "id": "2",
+        "id": 2,
         "name": "Mutton Curry",
         "img": "https://www.licious.in/blog/wp-content/uploads/2022/11/Shutterstock_1296739126-750x750.jpg"
     },
     {
-        "id": "3",
-        "name": "Kolhapuri Kharda Chicken",
+        "id": 3,
+        "name": "Kolhapuri Chicken",
         "img": "https://www.licious.in/blog/wp-content/uploads/2022/11/Shutterstock_1099209005-750x750.jpg"
     },
     {
-        "id": "4",
+        "id": 4,
         "name": "Fish Tikka",
         "img": "https://www.licious.in/blog/wp-content/uploads/2022/11/Shutterstock_1810030726-750x750.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Shorshe Ilish",
+        "img": "https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-01-735x490.jpg.webp"
+    },
+    {
+        "id": 6,
+        "name": "Kacchi Biriyani",
+        "img": "https://nomadparadise.com/wp-content/uploads/2021/03/bangladeshi-food-02-735x490.jpg.webp"
     }
 ]
