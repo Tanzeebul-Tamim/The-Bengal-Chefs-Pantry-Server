@@ -6,7 +6,135 @@
         "experience": "10+",
         "recipes": 58,
         "likes": 118,
-        "description": "Awlad Hossain is a seasoned chef with over a decade of experience in the culinary industry. He is known for his expertise in creating unique and flavorful dishes that blend traditional and modern techniques."
+        "description": "Awlad Hossain is a seasoned chef with over a decade of experience in the culinary industry. He is known for his expertise in creating unique and flavorful dishes that blend traditional and modern techniques.",
+        "recipe": [
+            {
+                "id": 1,
+                "img": "https://www.slurrp.com/web/_next/image?url=https%3A%2F%2Fimages.slurrp.com%2Fprod%2Frecipe_images%2Ftranscribe%2Fmain%20course%2FChingri-Malai-Curry.webp%3Fimpolicy%3Dslurrp-20210601%26width%3D1200%26height%3D675&w=1920&q=75",
+                "name": "Chingri Macher Malai Curry",
+                "ingredients": [
+                  "Prawns",
+                  "Coconut Milk",
+                  "Onion",
+                  "Ginger",
+                  "Garlic",
+                  "Green Chili",
+                  "Turmeric Powder",
+                  "Red Chili Powder",
+                  "Salt",
+                  "Sugar",
+                  "Mustard Oil"
+                ],
+                "method": [
+                  "Heat mustard oil in a pan and fry the prawns until they turn pink. Remove them from the pan and keep aside.",
+                  "In the same pan, add chopped onion, ginger, garlic, and green chili. Cook until the onions turn golden brown.",
+                  "Add turmeric powder, red chili powder, and salt. Mix well.",
+                  "Add coconut milk and let it come to a boil.",
+                  "Add the fried prawns and cook for 5-10 minutes.",
+                  "Add sugar and cook for another minute.",
+                  "Serve hot with steamed rice."
+                ],
+                "rating": 4.5
+              },
+              {
+                "id": 2,
+                "img": "h",
+                "name": "https://www.slurrp.com/web/_next/image?url=https%3A%2F%2Fimages.slurrp.com%2Fprod%2Frecipe_images%2Ftranscribe%2Fdessert%2FMishti-doi.webp%3Fimpolicy%3Dslurrp-20210601%26width%3D1200%26height%3D675&w=1920&q=75",
+                "ingredients": [
+                  "Milk",
+                  "Sugar",
+                  "Curd",
+                  "Earthen pots",
+                  "Water"
+                ],
+                "method": [
+                  "Boil the milk in a pan and let it cool to room temperature.",
+                  "Add curd to the milk and mix well.",
+                  "Add sugar and mix again.",
+                  "Pour the mixture into earthen pots and cover with a lid.",
+                  "Keep the pots in a warm place for 8-10 hours, or until the doi sets.",
+                  "Serve chilled."
+                ],
+                "rating": 4.3
+              },
+              {
+                "id": 3,
+                "img": "https://www.slurrp.com/web/_next/image?url=https%3A%2F%2Fimages.slurrp.com%2Fprod%2Frecipe_images%2Fbetter-butter%2Fbhapa-sorshe-ilish-steamed-hilsa-fish-in-mustard-gravy_734W9SD4YOBDCTDQ4SCT.webp%3Fimpolicy%3Dslurrp-20210601%26width%3D1200%26height%3D675&w=1920&q=75",
+                "name": "Bhapa Ilish",
+                "ingredients": [
+                  "Hilsa fish",
+                  "Mustard paste",
+                  "Poppy seeds",
+                  "Green chili",
+                  "Turmeric powder",
+                  "Salt",
+                  "Mustard oil"
+                ],
+                "method": [
+                  "Clean the hilsa fish and marinate it with salt and turmeric powder.",
+                  "In a bowl, mix together the mustard paste, poppy seeds, green chili, and salt.",
+                  "Coat the fish with the mustard paste mixture.",
+                  "Place the fish in a bowl and cover it with a lid.",
+                  "Boil water in a steamer and place the bowl in the steamer.",
+                  "Steam for 15-20 minutes.",
+                  "Serve hot with steamed rice."
+                ],
+                "rating": 4.7
+              },
+              {
+                "id": 4,
+                "img": "https://www.slurrp.com/web/_next/image?url=https%3A%2F%2Fimages.slurrp.com%2Fprod%2Frecipe_images%2Fbongong%2Fshorshe-mach-1619608374_9ZCUOFKVXZZXGJWJ0PI6.webp%3Fimpolicy%3Dslurrp-20210601%26width%3D1200%26height%3D675&w=1920&q=75",
+                "name": "Shorshe Maach",
+                "ingredients": [
+                  "Fish",
+                  "Mustard seeds",
+                  "Green chili",
+                  "Turmeric powder",
+                  "Salt",
+                  "Mustard oil"
+                ],
+                "method": [
+                  "Clean the fish and marinate it with salt and turmeric powder.",
+                  "Grind mustard seeds and green chili to a paste.",
+                  "Heat mustard oil in a pan and add the mustard paste to it.",
+                  "Add salt and cook until the oil separates from the mixture.",
+                  "Add the marinated fish and cook for 10-15 minutes.",
+                  "Serve hot with steamed rice."
+                ],
+                "rating": 4.2
+              },
+              {
+                "id": 5,
+                "img": "https://www.slurrp.com/web/_next/image?url=https%3A%2F%2Fimages.slurrp.com%2Fprod%2Frecipe_images%2Fbawarchi%2Fbengali-tangy-fish-curry_O28W342U3SFG78AGTKGK.webp%3Fimpolicy%3Dslurrp-20210601%26width%3D1200%26height%3D675&w=1920&q=75",
+                "name": "Bengali Fish Curry",
+                "ingredients": [
+                  "500g fish (preferably rohu or katla)",
+                  "2 medium-sized onions, finely chopped",
+                  "2 tbsp ginger-garlic paste",
+                  "1 tbsp cumin powder",
+                  "1 tsp coriander powder",
+                  "1 tsp turmeric powder",
+                  "1 tsp red chili powder",
+                  "2-3 green chilies, slit",
+                  "1/2 cup tomato puree",
+                  "1/4 cup mustard oil",
+                  "Salt to taste",
+                  "Water as needed"
+                ],
+                "method": [
+                  "Clean and wash the fish pieces. Marinate them with 1/2 tsp of turmeric powder and 1 tsp of salt. Keep aside for 10 minutes.",
+                  "Heat mustard oil in a pan. Fry the fish pieces until golden brown. Drain and keep aside.",
+                  "In the same oil, add chopped onions and green chilies. Saute until the onions turn golden brown.",
+                  "Add ginger-garlic paste and saute for a minute.",
+                  "Add cumin powder, coriander powder, turmeric powder, red chili powder, and salt. Mix well.",
+                  "Add tomato puree and cook until the oil separates.",
+                  "Add water as needed to make the curry. Bring it to a boil.",
+                  "Add the fried fish pieces and cook for another 5 minutes.",
+                  "Garnish with coriander leaves and serve hot with steamed rice."
+                ],
+                "rating": 4.5
+              }
+        ]
     },
     {
         "id": 2,
@@ -15,7 +143,117 @@
         "experience": "7",
         "recipes": 16,
         "likes": 72,
-        "description": "S M Sadi is a rising star in the culinary world. Despite having only seven years of experience, he has already made a name for himself with his creative and innovative dishes that showcase his passion for cooking."
+        "description": "S M Sadi is a rising star in the culinary world. Despite having only seven years of experience, he has already made a name for himself with his creative and innovative dishes that showcase his passion for cooking.",
+        "recipe": [
+            {
+                "id": 1,
+                "img": "https://www.slurrp.com/web/_next/image?url=https%3A%2F%2Fimages.slurrp.com%2Fprod%2Frecipe_images%2Ftranscribe%2Fdinner%2FBengali-Cholar-dal.webp%3Fimpolicy%3Dslurrp-20210601%26width%3D1200%26height%3D675&w=1920&q=75",
+                "name": "Cholar Dal",
+                "ingredients": [
+                  "1 cup chana dal",
+                  "2-3 green chilies, slit",
+                  "1/2 tsp turmeric powder",
+                  "1 tsp cumin seeds",
+                  "1 bay leaf",
+                  "1 cinnamon stick",
+                  "3-4 cloves",
+                  "2-3 cardamom pods",
+                  "2 tbsp ghee",
+                  "1 tsp sugar",
+                  "Salt to taste",
+                  "Water as needed",
+                  "Coriander leaves for garnishing"
+                ],
+                "method": [
+                  "Clean and wash the chana dal. Soak it in water for 30 minutes.",
+                  "In a pressure cooker, add the soaked dal, green chilies, turmeric powder, salt, and enough water. Pressure cook for 3-4 whistles or until the dal is cooked.",
+                  "In a pan, heat ghee. Add cumin seeds, bay leaf, cinnamon stick, cloves, and cardamom pods. Saute until fragrant.",
+                  "Add the cooked dal to the pan. Mix well.",
+                  "Add sugar and salt to taste. Mix well.",
+                  "Add water as needed to make the dal. Bring it to a boil.",
+                  "Simmer for 5-10 minutes or until the dal thickens.",
+                  "Garnish with coriander leaves and serve hot with rice or chapati."
+                ],
+                "rating": 4.2
+              },
+              {
+                "id": 2,
+                "img": "https://www.slurrp.com/web/_next/image?url=https%3A%2F%2Fimages.slurrp.com%2Fprod%2Frecipe_images%2Ftranscribe%2Fside%20dish%2FIlish_Bhapa_Shorshe.webp%3Fimpolicy%3Dslurrp-20210601%26width%3D1200%26height%3D675&w=1920&q=75",
+                "name": "Shorshe Ilish (Mustard Hilsa)",
+                "ingredients": [
+                    "6 pieces of Hilsa fish",
+                    "3 tablespoons mustard oil",
+                    "3 green chillies",
+                    "1 tablespoon turmeric powder",
+                    "1 tablespoon mustard paste",
+                    "1/2 cup water",
+                    "Salt to taste"
+                ],
+                "method": [
+                    "Marinate the fish pieces with salt and turmeric powder for 10 minutes.",
+                    "Heat mustard oil in a pan and fry the fish pieces until golden brown. Remove and keep aside.",
+                    "Add mustard paste and green chillies to the same oil and saute for a minute.",
+                    "Add water and salt, and bring it to a boil.",
+                    "Add the fried fish pieces to the gravy and cook for 5 minutes.",
+                    "Serve hot with steamed rice."
+                ],
+                "rating": 4.5
+              },
+              {
+                "id": 3,
+                "img": "https://www.slurrp.com/web/_next/image?url=https%3A%2F%2Fimages.slurrp.com%2Fprod%2Frecipe_images%2Fbetter-butter%2Fkosa-mangsho-bengali-spicy-mutton-curry_7QXV24PWRMU4G0VNJECT.webp%3Fimpolicy%3Dslurrp-20210601%26width%3D1200%26height%3D675&w=1920&q=75",
+                "name": "Kosha Mangsho (Spicy Mutton Curry)",
+                "ingredients": [
+                    "500g mutton, cut into pieces",
+                    "4 onions, chopped",
+                    "2 tablespoons ginger paste",
+                    "2 tablespoons garlic paste",
+                    "4 green chillies",
+                    "1 tablespoon turmeric powder",
+                    "2 tablespoons red chilli powder",
+                    "1 tablespoon cumin powder",
+                    "1 tablespoon coriander powder",
+                    "3 tablespoons mustard oil",
+                    "Salt to taste"
+                ],
+                "method": [
+                    "Heat mustard oil in a pressure cooker and fry the onions until golden brown.",
+                    "Add ginger paste, garlic paste, and green chillies. Saute for 2-3 minutes.",
+                    "Add mutton pieces and saute for 5-7 minutes until the meat turns brown.",
+                    "Add turmeric powder, red chilli powder, cumin powder, coriander powder, and salt. Mix well.",
+                    "Add a cup of water and pressure cook for 4-5 whistles.",
+                    "Open the lid and cook on high heat until the gravy thickens.",
+                    "Serve hot with steamed rice or paratha."
+                ],
+                "rating": 4.3
+              },
+              {
+                "id": 4,
+                "img": "https://www.slurrp.com/web/_next/image?url=https%3A%2F%2Fimages.slurrp.com%2Fprod%2Frecipe_images%2Fwhiskaffair%2Faloo-posto-1617379819_IVU2AX5CAETGEBP3NRKX.webp%3Fimpolicy%3Dslurrp-20210601%26width%3D1200%26height%3D675&w=1920&q=75",
+                "name": "Alu Posto",
+                "ingredients": [
+                    "4-5 medium-sized potatoes, peeled and cut into small pieces",
+                    "3-4 tbsp poppy seeds",
+                    "1-2 green chillies, finely chopped",
+                    "1/2 tsp turmeric powder",
+                    "1/2 tsp red chilli powder",
+                    "Salt to taste",
+                    "1-2 tbsp mustard oil"
+                ],
+                "method": [
+                    "Soak the poppy seeds in water for 1-2 hours and grind them to a smooth paste.",
+                    "Heat mustard oil in a pan and add the chopped green chillies.",
+                    "Add the potato pieces and stir well.",
+                    "Add turmeric powder, red chilli powder and salt to taste.",
+                    "Add the poppy seed paste and mix well.",
+                    "Add some water and cover the pan with a lid.",
+                    "Cook for 10-15 minutes on low flame until the potatoes are soft and well-cooked.",
+                    "Serve hot with steamed rice."
+                ],
+                "rating": 4.3
+              }
+
+        ]
     },
     {
         "id": 3,
@@ -24,7 +262,89 @@
         "experience": "17+",
         "recipes": 72,
         "likes": 84,
-        "description": "Tony Khan is a veteran chef with over 17 years of experience in the culinary industry. He is known for his attention to detail and his ability to create dishes that are both visually stunning and delicious."
+        "description": "Tony Khan is a veteran chef with over 17 years of experience in the culinary industry. He is known for his attention to detail and his ability to create dishes that are both visually stunning and delicious.",
+        "recipe": [
+            {
+                "id": 1,
+                "img": "https://images.slurrp.com/prodarticles/e3mxptxhbb7.webp?impolicy=slurrp-20210601&width=1200&height=675",
+                "name": "Beef Kala Bhuna",
+                "ingredients": [
+                    "1 kg beef, cut into small pieces",
+                    "3-4 onions, finely sliced",
+                    "1 tbsp ginger paste",
+                    "1 tbsp garlic paste",
+                    "2-3 green chillies, slit",
+                    "1 tsp cumin powder",
+                    "1 tsp coriander powder",
+                    "1 tsp garam masala powder",
+                    "1 tsp turmeric powder",
+                    "Salt to taste",
+                    "2-3 tbsp mustard oil"
+                ],
+                "cooking_method": [
+                    "Heat mustard oil in a pan and add the sliced onions.",
+                    "Fry until the onions turn golden brown.",
+                    "Add the ginger and garlic paste and fry until the raw smell goes away.",
+                    "Add the beef pieces and mix well.",
+                    "Add the cumin powder, coriander powder, turmeric powder and salt to taste.",
+                    "Mix well and cover the pan with a lid.",
+                    "Cook on low flame for 30-40 minutes or until the beef is well-cooked.",
+                    "Add the garam masala powder and slit green chillies.",
+                    "Mix well and cook for another 5-10 minutes.",
+                    "Serve hot with steamed rice or roti."
+                ],
+                "rating": 4.8
+            },
+            {
+                "id": 2,
+                "img": "https://www.slurrp.com/web/_next/image?url=https%3A%2F%2Fimages.slurrp.com%2Fprod%2Frecipe_images%2Ftranscribe%2Fmain%20course%2FChingri-Malai-Curry.webp%3Fimpolicy%3Dslurrp-20210601%26width%3D1200%26height%3D675&w=1920&q=75",
+                "name": "Chingri Macher Malai Curry",
+                "ingredients": [
+                  "Prawns",
+                  "Coconut Milk",
+                  "Onion",
+                  "Ginger",
+                  "Garlic",
+                  "Green Chili",
+                  "Turmeric Powder",
+                  "Red Chili Powder",
+                  "Salt",
+                  "Sugar",
+                  "Mustard Oil"
+                ],
+                "method": [
+                  "Heat mustard oil in a pan and fry the prawns until they turn pink. Remove them from the pan and keep aside.",
+                  "In the same pan, add chopped onion, ginger, garlic, and green chili. Cook until the onions turn golden brown.",
+                  "Add turmeric powder, red chili powder, and salt. Mix well.",
+                  "Add coconut milk and let it come to a boil.",
+                  "Add the fried prawns and cook for 5-10 minutes.",
+                  "Add sugar and cook for another minute.",
+                  "Serve hot with steamed rice."
+                ],
+                "rating": 4.5
+              },
+              {
+                "id": 3,
+                "img": "h",
+                "name": "https://www.slurrp.com/web/_next/image?url=https%3A%2F%2Fimages.slurrp.com%2Fprod%2Frecipe_images%2Ftranscribe%2Fdessert%2FMishti-doi.webp%3Fimpolicy%3Dslurrp-20210601%26width%3D1200%26height%3D675&w=1920&q=75",
+                "ingredients": [
+                  "Milk",
+                  "Sugar",
+                  "Curd",
+                  "Earthen pots",
+                  "Water"
+                ],
+                "method": [
+                  "Boil the milk in a pan and let it cool to room temperature.",
+                  "Add curd to the milk and mix well.",
+                  "Add sugar and mix again.",
+                  "Pour the mixture into earthen pots and cover with a lid.",
+                  "Keep the pots in a warm place for 8-10 hours, or until the doi sets.",
+                  "Serve chilled."
+                ],
+                "rating": 4.3
+              }
+        ]
     },
     {
         "id": 4,
@@ -33,7 +353,117 @@
         "experience": "6",
         "recipes": 12,
         "likes": 212,
-        "description": "Avinash Shishadira is a young and talented chef who specializes in creating dishes that highlight the flavors and spices of his native India. Despite his relative lack of experience, he has already made a name for himself in the culinary world."
+        "description": "Avinash Shishadira is a young and talented chef who specializes in creating dishes that highlight the flavors and spices of his native India. Despite his relative lack of experience, he has already made a name for himself in the culinary world.",
+        "recipe": [
+            {
+                "id": 1,
+                "img": "https://www.slurrp.com/web/_next/image?url=https%3A%2F%2Fimages.slurrp.com%2Fprod%2Frecipe_images%2Fbetter-butter%2Fbhapa-sorshe-ilish-steamed-hilsa-fish-in-mustard-gravy_734W9SD4YOBDCTDQ4SCT.webp%3Fimpolicy%3Dslurrp-20210601%26width%3D1200%26height%3D675&w=1920&q=75",
+                "name": "Bhapa Ilish",
+                "ingredients": [
+                  "Hilsa fish",
+                  "Mustard paste",
+                  "Poppy seeds",
+                  "Green chili",
+                  "Turmeric powder",
+                  "Salt",
+                  "Mustard oil"
+                ],
+                "method": [
+                  "Clean the hilsa fish and marinate it with salt and turmeric powder.",
+                  "In a bowl, mix together the mustard paste, poppy seeds, green chili, and salt.",
+                  "Coat the fish with the mustard paste mixture.",
+                  "Place the fish in a bowl and cover it with a lid.",
+                  "Boil water in a steamer and place the bowl in the steamer.",
+                  "Steam for 15-20 minutes.",
+                  "Serve hot with steamed rice."
+                ],
+                "rating": 4.7
+              },
+              {
+                "id": 2,
+                "img": "https://www.slurrp.com/web/_next/image?url=https%3A%2F%2Fimages.slurrp.com%2Fprod%2Frecipe_images%2Fbongong%2Fshorshe-mach-1619608374_9ZCUOFKVXZZXGJWJ0PI6.webp%3Fimpolicy%3Dslurrp-20210601%26width%3D1200%26height%3D675&w=1920&q=75",
+                "name": "Shorshe Maach",
+                "ingredients": [
+                  "Fish",
+                  "Mustard seeds",
+                  "Green chili",
+                  "Turmeric powder",
+                  "Salt",
+                  "Mustard oil"
+                ],
+                "method": [
+                  "Clean the fish and marinate it with salt and turmeric powder.",
+                  "Grind mustard seeds and green chili to a paste.",
+                  "Heat mustard oil in a pan and add the mustard paste to it.",
+                  "Add salt and cook until the oil separates from the mixture.",
+                  "Add the marinated fish and cook for 10-15 minutes.",
+                  "Serve hot with steamed rice."
+                ],
+                "rating": 4.2
+              },
+              {
+                "id": 3,
+                "img": "https://www.slurrp.com/web/_next/image?url=https%3A%2F%2Fimages.slurrp.com%2Fprod%2Frecipe_images%2Fbawarchi%2Fbengali-tangy-fish-curry_O28W342U3SFG78AGTKGK.webp%3Fimpolicy%3Dslurrp-20210601%26width%3D1200%26height%3D675&w=1920&q=75",
+                "name": "Bengali Fish Curry",
+                "ingredients": [
+                  "500g fish (preferably rohu or katla)",
+                  "2 medium-sized onions, finely chopped",
+                  "2 tbsp ginger-garlic paste",
+                  "1 tbsp cumin powder",
+                  "1 tsp coriander powder",
+                  "1 tsp turmeric powder",
+                  "1 tsp red chili powder",
+                  "2-3 green chilies, slit",
+                  "1/2 cup tomato puree",
+                  "1/4 cup mustard oil",
+                  "Salt to taste",
+                  "Water as needed"
+                ],
+                "method": [
+                  "Clean and wash the fish pieces. Marinate them with 1/2 tsp of turmeric powder and 1 tsp of salt. Keep aside for 10 minutes.",
+                  "Heat mustard oil in a pan. Fry the fish pieces until golden brown. Drain and keep aside.",
+                  "In the same oil, add chopped onions and green chilies. Saute until the onions turn golden brown.",
+                  "Add ginger-garlic paste and saute for a minute.",
+                  "Add cumin powder, coriander powder, turmeric powder, red chili powder, and salt. Mix well.",
+                  "Add tomato puree and cook until the oil separates.",
+                  "Add water as needed to make the curry. Bring it to a boil.",
+                  "Add the fried fish pieces and cook for another 5 minutes.",
+                  "Garnish with coriander leaves and serve hot with steamed rice."
+                ],
+                "rating": 4.5
+              },
+              {
+                "id": 4,
+                "img": "https://www.slurrp.com/web/_next/image?url=https%3A%2F%2Fimages.slurrp.com%2Fprod%2Frecipe_images%2Ftranscribe%2Fdinner%2FBengali-Cholar-dal.webp%3Fimpolicy%3Dslurrp-20210601%26width%3D1200%26height%3D675&w=1920&q=75",
+                "name": "Cholar Dal",
+                "ingredients": [
+                  "1 cup chana dal",
+                  "2-3 green chilies, slit",
+                  "1/2 tsp turmeric powder",
+                  "1 tsp cumin seeds",
+                  "1 bay leaf",
+                  "1 cinnamon stick",
+                  "3-4 cloves",
+                  "2-3 cardamom pods",
+                  "2 tbsp ghee",
+                  "1 tsp sugar",
+                  "Salt to taste",
+                  "Water as needed",
+                  "Coriander leaves for garnishing"
+                ],
+                "method": [
+                  "Clean and wash the chana dal. Soak it in water for 30 minutes.",
+                  "In a pressure cooker, add the soaked dal, green chilies, turmeric powder, salt, and enough water. Pressure cook for 3-4 whistles or until the dal is cooked.",
+                  "In a pan, heat ghee. Add cumin seeds, bay leaf, cinnamon stick, cloves, and cardamom pods. Saute until fragrant.",
+                  "Add the cooked dal to the pan. Mix well.",
+                  "Add sugar and salt to taste. Mix well.",
+                  "Add water as needed to make the dal. Bring it to a boil.",
+                  "Simmer for 5-10 minutes or until the dal thickens.",
+                  "Garnish with coriander leaves and serve hot with rice or chapati."
+                ],
+                "rating": 4.2
+              }
+        ]
     },
     {
         "id": 5,
@@ -42,7 +472,144 @@
         "experience": "3",
         "recipes": 8,
         "likes": 56,
-        "description": "Palash M. is a young chef who is just getting started in the culinary industry. He is known for his innovative and experimental dishes that blend traditional and modern techniques, and he is quickly gaining a reputation as one to watch in the coming years."
+        "description": "Palash M. is a young chef who is just getting started in the culinary industry. He is known for his innovative and experimental dishes that blend traditional and modern techniques, and he is quickly gaining a reputation as one to watch in the coming years.",
+        "recipe": [
+            {
+                "id": 1,
+                "img": "https://www.slurrp.com/web/_next/image?url=https%3A%2F%2Fimages.slurrp.com%2Fprod%2Frecipe_images%2Ftranscribe%2Fside%20dish%2FIlish_Bhapa_Shorshe.webp%3Fimpolicy%3Dslurrp-20210601%26width%3D1200%26height%3D675&w=1920&q=75",
+                "name": "Shorshe Ilish (Mustard Hilsa)",
+                "ingredients": [
+                    "6 pieces of Hilsa fish",
+                    "3 tablespoons mustard oil",
+                    "3 green chillies",
+                    "1 tablespoon turmeric powder",
+                    "1 tablespoon mustard paste",
+                    "1/2 cup water",
+                    "Salt to taste"
+                ],
+                "method": [
+                    "Marinate the fish pieces with salt and turmeric powder for 10 minutes.",
+                    "Heat mustard oil in a pan and fry the fish pieces until golden brown. Remove and keep aside.",
+                    "Add mustard paste and green chillies to the same oil and saute for a minute.",
+                    "Add water and salt, and bring it to a boil.",
+                    "Add the fried fish pieces to the gravy and cook for 5 minutes.",
+                    "Serve hot with steamed rice."
+                ],
+                "rating": 4.5
+              },
+              {
+                "id": 2,
+                "img": "https://www.slurrp.com/web/_next/image?url=https%3A%2F%2Fimages.slurrp.com%2Fprod%2Frecipe_images%2Fbetter-butter%2Fkosa-mangsho-bengali-spicy-mutton-curry_7QXV24PWRMU4G0VNJECT.webp%3Fimpolicy%3Dslurrp-20210601%26width%3D1200%26height%3D675&w=1920&q=75",
+                "name": "Kosha Mangsho (Spicy Mutton Curry)",
+                "ingredients": [
+                    "500g mutton, cut into pieces",
+                    "4 onions, chopped",
+                    "2 tablespoons ginger paste",
+                    "2 tablespoons garlic paste",
+                    "4 green chillies",
+                    "1 tablespoon turmeric powder",
+                    "2 tablespoons red chilli powder",
+                    "1 tablespoon cumin powder",
+                    "1 tablespoon coriander powder",
+                    "3 tablespoons mustard oil",
+                    "Salt to taste"
+                ],
+                "method": [
+                    "Heat mustard oil in a pressure cooker and fry the onions until golden brown.",
+                    "Add ginger paste, garlic paste, and green chillies. Saute for 2-3 minutes.",
+                    "Add mutton pieces and saute for 5-7 minutes until the meat turns brown.",
+                    "Add turmeric powder, red chilli powder, cumin powder, coriander powder, and salt. Mix well.",
+                    "Add a cup of water and pressure cook for 4-5 whistles.",
+                    "Open the lid and cook on high heat until the gravy thickens.",
+                    "Serve hot with steamed rice or paratha."
+                ],
+                "rating": 4.3
+              },
+              {
+                "id": 3,
+                "img": "https://www.slurrp.com/web/_next/image?url=https%3A%2F%2Fimages.slurrp.com%2Fprod%2Frecipe_images%2Fwhiskaffair%2Faloo-posto-1617379819_IVU2AX5CAETGEBP3NRKX.webp%3Fimpolicy%3Dslurrp-20210601%26width%3D1200%26height%3D675&w=1920&q=75",
+                "name": "Alu Posto",
+                "ingredients": [
+                    "4-5 medium-sized potatoes, peeled and cut into small pieces",
+                    "3-4 tbsp poppy seeds",
+                    "1-2 green chillies, finely chopped",
+                    "1/2 tsp turmeric powder",
+                    "1/2 tsp red chilli powder",
+                    "Salt to taste",
+                    "1-2 tbsp mustard oil"
+                ],
+                "method": [
+                    "Soak the poppy seeds in water for 1-2 hours and grind them to a smooth paste.",
+                    "Heat mustard oil in a pan and add the chopped green chillies.",
+                    "Add the potato pieces and stir well.",
+                    "Add turmeric powder, red chilli powder and salt to taste.",
+                    "Add the poppy seed paste and mix well.",
+                    "Add some water and cover the pan with a lid.",
+                    "Cook for 10-15 minutes on low flame until the potatoes are soft and well-cooked.",
+                    "Serve hot with steamed rice."
+                ],
+                "rating": 4.3
+              },
+              {
+                "id": 4,
+                "img": "https://images.slurrp.com/prodarticles/e3mxptxhbb7.webp?impolicy=slurrp-20210601&width=1200&height=675",
+                "name": "Beef Kala Bhuna",
+                "ingredients": [
+                    "1 kg beef, cut into small pieces",
+                    "3-4 onions, finely sliced",
+                    "1 tbsp ginger paste",
+                    "1 tbsp garlic paste",
+                    "2-3 green chillies, slit",
+                    "1 tsp cumin powder",
+                    "1 tsp coriander powder",
+                    "1 tsp garam masala powder",
+                    "1 tsp turmeric powder",
+                    "Salt to taste",
+                    "2-3 tbsp mustard oil"
+                ],
+                "cooking_method": [
+                    "Heat mustard oil in a pan and add the sliced onions.",
+                    "Fry until the onions turn golden brown.",
+                    "Add the ginger and garlic paste and fry until the raw smell goes away.",
+                    "Add the beef pieces and mix well.",
+                    "Add the cumin powder, coriander powder, turmeric powder and salt to taste.",
+                    "Mix well and cover the pan with a lid.",
+                    "Cook on low flame for 30-40 minutes or until the beef is well-cooked.",
+                    "Add the garam masala powder and slit green chillies.",
+                    "Mix well and cook for another 5-10 minutes.",
+                    "Serve hot with steamed rice or roti."
+                ],
+                "rating": 4.8
+            },
+            {
+                "id": 5,
+                "img": "https://www.slurrp.com/web/_next/image?url=https%3A%2F%2Fimages.slurrp.com%2Fprod%2Frecipe_images%2Ftranscribe%2Fmain%20course%2FChingri-Malai-Curry.webp%3Fimpolicy%3Dslurrp-20210601%26width%3D1200%26height%3D675&w=1920&q=75",
+                "name": "Chingri Macher Malai Curry",
+                "ingredients": [
+                  "Prawns",
+                  "Coconut Milk",
+                  "Onion",
+                  "Ginger",
+                  "Garlic",
+                  "Green Chili",
+                  "Turmeric Powder",
+                  "Red Chili Powder",
+                  "Salt",
+                  "Sugar",
+                  "Mustard Oil"
+                ],
+                "method": [
+                  "Heat mustard oil in a pan and fry the prawns until they turn pink. Remove them from the pan and keep aside.",
+                  "In the same pan, add chopped onion, ginger, garlic, and green chili. Cook until the onions turn golden brown.",
+                  "Add turmeric powder, red chili powder, and salt. Mix well.",
+                  "Add coconut milk and let it come to a boil.",
+                  "Add the fried prawns and cook for 5-10 minutes.",
+                  "Add sugar and cook for another minute.",
+                  "Serve hot with steamed rice."
+                ],
+                "rating": 4.5
+              }
+        ]
     },
     {
         "id": 6,
@@ -51,7 +618,166 @@
         "experience": "10+",
         "recipes": 66,
         "likes": 290,
-        "description": "Ahmed Wahid is a skilled chef with over 10 years of experience in the culinary industry. He has a passion for creating delicious and innovative dishes that are both visually appealing and satisfying to the palate. Ahmed's extensive experience and knowledge have allowed him to develop a unique culinary style that is both creative and rooted in tradition."
+        "description": "Ahmed Wahid is a skilled chef with over 10 years of experience in the culinary industry. He has a passion for creating delicious and innovative dishes that are both visually appealing and satisfying to the palate. Ahmed's extensive experience and knowledge have allowed him to develop a unique culinary style that is both creative and rooted in tradition.",
+        "recipe": [
+            {
+                "id": 1,
+                "img": "https://www.slurrp.com/web/_next/image?url=https%3A%2F%2Fimages.slurrp.com%2Fprod%2Frecipe_images%2Ftranscribe%2Fmain%20course%2FChingri-Malai-Curry.webp%3Fimpolicy%3Dslurrp-20210601%26width%3D1200%26height%3D675&w=1920&q=75",
+                "name": "Chingri Macher Malai Curry",
+                "ingredients": [
+                  "Prawns",
+                  "Coconut Milk",
+                  "Onion",
+                  "Ginger",
+                  "Garlic",
+                  "Green Chili",
+                  "Turmeric Powder",
+                  "Red Chili Powder",
+                  "Salt",
+                  "Sugar",
+                  "Mustard Oil"
+                ],
+                "method": [
+                  "Heat mustard oil in a pan and fry the prawns until they turn pink. Remove them from the pan and keep aside.",
+                  "In the same pan, add chopped onion, ginger, garlic, and green chili. Cook until the onions turn golden brown.",
+                  "Add turmeric powder, red chili powder, and salt. Mix well.",
+                  "Add coconut milk and let it come to a boil.",
+                  "Add the fried prawns and cook for 5-10 minutes.",
+                  "Add sugar and cook for another minute.",
+                  "Serve hot with steamed rice."
+                ],
+                "rating": 4.5
+              },
+              {
+                "id": 2,
+                "img": "h",
+                "name": "https://www.slurrp.com/web/_next/image?url=https%3A%2F%2Fimages.slurrp.com%2Fprod%2Frecipe_images%2Ftranscribe%2Fdessert%2FMishti-doi.webp%3Fimpolicy%3Dslurrp-20210601%26width%3D1200%26height%3D675&w=1920&q=75",
+                "ingredients": [
+                  "Milk",
+                  "Sugar",
+                  "Curd",
+                  "Earthen pots",
+                  "Water"
+                ],
+                "method": [
+                  "Boil the milk in a pan and let it cool to room temperature.",
+                  "Add curd to the milk and mix well.",
+                  "Add sugar and mix again.",
+                  "Pour the mixture into earthen pots and cover with a lid.",
+                  "Keep the pots in a warm place for 8-10 hours, or until the doi sets.",
+                  "Serve chilled."
+                ],
+                "rating": 4.3
+              },
+              {
+                "id": 3,
+                "img": "https://www.slurrp.com/web/_next/image?url=https%3A%2F%2Fimages.slurrp.com%2Fprod%2Frecipe_images%2Fbetter-butter%2Fbhapa-sorshe-ilish-steamed-hilsa-fish-in-mustard-gravy_734W9SD4YOBDCTDQ4SCT.webp%3Fimpolicy%3Dslurrp-20210601%26width%3D1200%26height%3D675&w=1920&q=75",
+                "name": "Bhapa Ilish",
+                "ingredients": [
+                  "Hilsa fish",
+                  "Mustard paste",
+                  "Poppy seeds",
+                  "Green chili",
+                  "Turmeric powder",
+                  "Salt",
+                  "Mustard oil"
+                ],
+                "method": [
+                  "Clean the hilsa fish and marinate it with salt and turmeric powder.",
+                  "In a bowl, mix together the mustard paste, poppy seeds, green chili, and salt.",
+                  "Coat the fish with the mustard paste mixture.",
+                  "Place the fish in a bowl and cover it with a lid.",
+                  "Boil water in a steamer and place the bowl in the steamer.",
+                  "Steam for 15-20 minutes.",
+                  "Serve hot with steamed rice."
+                ],
+                "rating": 4.7
+              },
+              {
+                "id": 4,
+                "img": "https://www.slurrp.com/web/_next/image?url=https%3A%2F%2Fimages.slurrp.com%2Fprod%2Frecipe_images%2Fbongong%2Fshorshe-mach-1619608374_9ZCUOFKVXZZXGJWJ0PI6.webp%3Fimpolicy%3Dslurrp-20210601%26width%3D1200%26height%3D675&w=1920&q=75",
+                "name": "Shorshe Maach",
+                "ingredients": [
+                  "Fish",
+                  "Mustard seeds",
+                  "Green chili",
+                  "Turmeric powder",
+                  "Salt",
+                  "Mustard oil"
+                ],
+                "method": [
+                  "Clean the fish and marinate it with salt and turmeric powder.",
+                  "Grind mustard seeds and green chili to a paste.",
+                  "Heat mustard oil in a pan and add the mustard paste to it.",
+                  "Add salt and cook until the oil separates from the mixture.",
+                  "Add the marinated fish and cook for 10-15 minutes.",
+                  "Serve hot with steamed rice."
+                ],
+                "rating": 4.2
+              },
+              {
+                "id": 5,
+                "img": "https://www.slurrp.com/web/_next/image?url=https%3A%2F%2Fimages.slurrp.com%2Fprod%2Frecipe_images%2Fbawarchi%2Fbengali-tangy-fish-curry_O28W342U3SFG78AGTKGK.webp%3Fimpolicy%3Dslurrp-20210601%26width%3D1200%26height%3D675&w=1920&q=75",
+                "name": "Bengali Fish Curry",
+                "ingredients": [
+                  "500g fish (preferably rohu or katla)",
+                  "2 medium-sized onions, finely chopped",
+                  "2 tbsp ginger-garlic paste",
+                  "1 tbsp cumin powder",
+                  "1 tsp coriander powder",
+                  "1 tsp turmeric powder",
+                  "1 tsp red chili powder",
+                  "2-3 green chilies, slit",
+                  "1/2 cup tomato puree",
+                  "1/4 cup mustard oil",
+                  "Salt to taste",
+                  "Water as needed"
+                ],
+                "method": [
+                  "Clean and wash the fish pieces. Marinate them with 1/2 tsp of turmeric powder and 1 tsp of salt. Keep aside for 10 minutes.",
+                  "Heat mustard oil in a pan. Fry the fish pieces until golden brown. Drain and keep aside.",
+                  "In the same oil, add chopped onions and green chilies. Saute until the onions turn golden brown.",
+                  "Add ginger-garlic paste and saute for a minute.",
+                  "Add cumin powder, coriander powder, turmeric powder, red chili powder, and salt. Mix well.",
+                  "Add tomato puree and cook until the oil separates.",
+                  "Add water as needed to make the curry. Bring it to a boil.",
+                  "Add the fried fish pieces and cook for another 5 minutes.",
+                  "Garnish with coriander leaves and serve hot with steamed rice."
+                ],
+                "rating": 4.5
+              },
+              {
+                "id": 6,
+                "img": "https://images.slurrp.com/prodarticles/e3mxptxhbb7.webp?impolicy=slurrp-20210601&width=1200&height=675",
+                "name": "Beef Kala Bhuna",
+                "ingredients": [
+                    "1 kg beef, cut into small pieces",
+                    "3-4 onions, finely sliced",
+                    "1 tbsp ginger paste",
+                    "1 tbsp garlic paste",
+                    "2-3 green chillies, slit",
+                    "1 tsp cumin powder",
+                    "1 tsp coriander powder",
+                    "1 tsp garam masala powder",
+                    "1 tsp turmeric powder",
+                    "Salt to taste",
+                    "2-3 tbsp mustard oil"
+                ],
+                "cooking_method": [
+                    "Heat mustard oil in a pan and add the sliced onions.",
+                    "Fry until the onions turn golden brown.",
+                    "Add the ginger and garlic paste and fry until the raw smell goes away.",
+                    "Add the beef pieces and mix well.",
+                    "Add the cumin powder, coriander powder, turmeric powder and salt to taste.",
+                    "Mix well and cover the pan with a lid.",
+                    "Cook on low flame for 30-40 minutes or until the beef is well-cooked.",
+                    "Add the garam masala powder and slit green chillies.",
+                    "Mix well and cook for another 5-10 minutes.",
+                    "Serve hot with steamed rice or roti."
+                ],
+                "rating": 4.8
+            }
+        ]
     },
     {
         "id": 7,
@@ -60,7 +786,86 @@
         "experience": "7",
         "recipes": 12,
         "likes": 122,
-        "description": "Rakesh Majumdar is a passionate and creative chef with 7 years of experience in the culinary world. His unique approach to cooking is inspired by his Indian heritage, which is reflected in his dishes' bold and aromatic flavors. Rakesh's talent for experimenting with different ingredients and techniques has led him to develop a diverse culinary style that is both exciting and delicious."
+        "description": "Rakesh Majumdar is a passionate and creative chef with 7 years of experience in the culinary world. His unique approach to cooking is inspired by his Indian heritage, which is reflected in his dishes' bold and aromatic flavors. Rakesh's talent for experimenting with different ingredients and techniques has led him to develop a diverse culinary style that is both exciting and delicious.",
+        "recipe": [
+            {
+                "id": 1,
+                "img": "https://www.slurrp.com/web/_next/image?url=https%3A%2F%2Fimages.slurrp.com%2Fprod%2Frecipe_images%2Fbetter-butter%2Fkosa-mangsho-bengali-spicy-mutton-curry_7QXV24PWRMU4G0VNJECT.webp%3Fimpolicy%3Dslurrp-20210601%26width%3D1200%26height%3D675&w=1920&q=75",
+                "name": "Kosha Mangsho (Spicy Mutton Curry)",
+                "ingredients": [
+                    "500g mutton, cut into pieces",
+                    "4 onions, chopped",
+                    "2 tablespoons ginger paste",
+                    "2 tablespoons garlic paste",
+                    "4 green chillies",
+                    "1 tablespoon turmeric powder",
+                    "2 tablespoons red chilli powder",
+                    "1 tablespoon cumin powder",
+                    "1 tablespoon coriander powder",
+                    "3 tablespoons mustard oil",
+                    "Salt to taste"
+                ],
+                "method": [
+                    "Heat mustard oil in a pressure cooker and fry the onions until golden brown.",
+                    "Add ginger paste, garlic paste, and green chillies. Saute for 2-3 minutes.",
+                    "Add mutton pieces and saute for 5-7 minutes until the meat turns brown.",
+                    "Add turmeric powder, red chilli powder, cumin powder, coriander powder, and salt. Mix well.",
+                    "Add a cup of water and pressure cook for 4-5 whistles.",
+                    "Open the lid and cook on high heat until the gravy thickens.",
+                    "Serve hot with steamed rice or paratha."
+                ],
+                "rating": 4.3
+              },
+              {
+                "id": 2,
+                "img": "https://www.slurrp.com/web/_next/image?url=https%3A%2F%2Fimages.slurrp.com%2Fprod%2Frecipe_images%2Fwhiskaffair%2Faloo-posto-1617379819_IVU2AX5CAETGEBP3NRKX.webp%3Fimpolicy%3Dslurrp-20210601%26width%3D1200%26height%3D675&w=1920&q=75",
+                "name": "Alu Posto",
+                "ingredients": [
+                    "4-5 medium-sized potatoes, peeled and cut into small pieces",
+                    "3-4 tbsp poppy seeds",
+                    "1-2 green chillies, finely chopped",
+                    "1/2 tsp turmeric powder",
+                    "1/2 tsp red chilli powder",
+                    "Salt to taste",
+                    "1-2 tbsp mustard oil"
+                ],
+                "method": [
+                    "Soak the poppy seeds in water for 1-2 hours and grind them to a smooth paste.",
+                    "Heat mustard oil in a pan and add the chopped green chillies.",
+                    "Add the potato pieces and stir well.",
+                    "Add turmeric powder, red chilli powder and salt to taste.",
+                    "Add the poppy seed paste and mix well.",
+                    "Add some water and cover the pan with a lid.",
+                    "Cook for 10-15 minutes on low flame until the potatoes are soft and well-cooked.",
+                    "Serve hot with steamed rice."
+                ],
+                "rating": 4.3
+              },
+              {
+                "id": 3,
+                "img": "https://www.slurrp.com/web/_next/image?url=https%3A%2F%2Fimages.slurrp.com%2Fprod%2Frecipe_images%2Fbetter-butter%2Fbhapa-sorshe-ilish-steamed-hilsa-fish-in-mustard-gravy_734W9SD4YOBDCTDQ4SCT.webp%3Fimpolicy%3Dslurrp-20210601%26width%3D1200%26height%3D675&w=1920&q=75",
+                "name": "Bhapa Ilish",
+                "ingredients": [
+                  "Hilsa fish",
+                  "Mustard paste",
+                  "Poppy seeds",
+                  "Green chili",
+                  "Turmeric powder",
+                  "Salt",
+                  "Mustard oil"
+                ],
+                "method": [
+                  "Clean the hilsa fish and marinate it with salt and turmeric powder.",
+                  "In a bowl, mix together the mustard paste, poppy seeds, green chili, and salt.",
+                  "Coat the fish with the mustard paste mixture.",
+                  "Place the fish in a bowl and cover it with a lid.",
+                  "Boil water in a steamer and place the bowl in the steamer.",
+                  "Steam for 15-20 minutes.",
+                  "Serve hot with steamed rice."
+                ],
+                "rating": 4.7
+              }
+        ]
     },
     {
         "id": 8,
@@ -69,6 +874,123 @@
         "experience": "9",
         "recipes": 38,
         "likes": 98,
-        "description": "Faisal Shikder is a chef with 9 years of experience in the culinary industry. He is known for his modern take on traditional dishes, using locally sourced ingredients to create unique and flavorful dishes. Faisal is the founder and head chef of Lento, a popular restaurant that combines contemporary design with a relaxed atmosphere. He has been featured in several food magazines and has won multiple awards for his culinary skills."
+        "description": "Faisal Shikder is a chef with 9 years of experience in the culinary industry. He is known for his modern take on traditional dishes, using locally sourced ingredients to create unique and flavorful dishes. Faisal is the founder and head chef of Lento, a popular restaurant that combines contemporary design with a relaxed atmosphere. He has been featured in several food magazines and has won multiple awards for his culinary skills.",
+        "recipe": [
+            {
+                "id": 1,
+                "img": "https://www.slurrp.com/web/_next/image?url=https%3A%2F%2Fimages.slurrp.com%2Fprod%2Frecipe_images%2Ftranscribe%2Fmain%20course%2FChingri-Malai-Curry.webp%3Fimpolicy%3Dslurrp-20210601%26width%3D1200%26height%3D675&w=1920&q=75",
+                "name": "Chingri Macher Malai Curry",
+                "ingredients": [
+                  "Prawns",
+                  "Coconut Milk",
+                  "Onion",
+                  "Ginger",
+                  "Garlic",
+                  "Green Chili",
+                  "Turmeric Powder",
+                  "Red Chili Powder",
+                  "Salt",
+                  "Sugar",
+                  "Mustard Oil"
+                ],
+                "method": [
+                  "Heat mustard oil in a pan and fry the prawns until they turn pink. Remove them from the pan and keep aside.",
+                  "In the same pan, add chopped onion, ginger, garlic, and green chili. Cook until the onions turn golden brown.",
+                  "Add turmeric powder, red chili powder, and salt. Mix well.",
+                  "Add coconut milk and let it come to a boil.",
+                  "Add the fried prawns and cook for 5-10 minutes.",
+                  "Add sugar and cook for another minute.",
+                  "Serve hot with steamed rice."
+                ],
+                "rating": 4.5
+              },
+              {
+                "id": 2,
+                "img": "https://www.slurrp.com/web/_next/image?url=https%3A%2F%2Fimages.slurrp.com%2Fprod%2Frecipe_images%2Fbawarchi%2Fbengali-tangy-fish-curry_O28W342U3SFG78AGTKGK.webp%3Fimpolicy%3Dslurrp-20210601%26width%3D1200%26height%3D675&w=1920&q=75",
+                "name": "Bengali Fish Curry",
+                "ingredients": [
+                  "500g fish (preferably rohu or katla)",
+                  "2 medium-sized onions, finely chopped",
+                  "2 tbsp ginger-garlic paste",
+                  "1 tbsp cumin powder",
+                  "1 tsp coriander powder",
+                  "1 tsp turmeric powder",
+                  "1 tsp red chili powder",
+                  "2-3 green chilies, slit",
+                  "1/2 cup tomato puree",
+                  "1/4 cup mustard oil",
+                  "Salt to taste",
+                  "Water as needed"
+                ],
+                "method": [
+                  "Clean and wash the fish pieces. Marinate them with 1/2 tsp of turmeric powder and 1 tsp of salt. Keep aside for 10 minutes.",
+                  "Heat mustard oil in a pan. Fry the fish pieces until golden brown. Drain and keep aside.",
+                  "In the same oil, add chopped onions and green chilies. Saute until the onions turn golden brown.",
+                  "Add ginger-garlic paste and saute for a minute.",
+                  "Add cumin powder, coriander powder, turmeric powder, red chili powder, and salt. Mix well.",
+                  "Add tomato puree and cook until the oil separates.",
+                  "Add water as needed to make the curry. Bring it to a boil.",
+                  "Add the fried fish pieces and cook for another 5 minutes.",
+                  "Garnish with coriander leaves and serve hot with steamed rice."
+                ],
+                "rating": 4.5
+              },
+              {
+                "id": 3,
+                "img": "https://images.slurrp.com/prodarticles/e3mxptxhbb7.webp?impolicy=slurrp-20210601&width=1200&height=675",
+                "name": "Beef Kala Bhuna",
+                "ingredients": [
+                    "1 kg beef, cut into small pieces",
+                    "3-4 onions, finely sliced",
+                    "1 tbsp ginger paste",
+                    "1 tbsp garlic paste",
+                    "2-3 green chillies, slit",
+                    "1 tsp cumin powder",
+                    "1 tsp coriander powder",
+                    "1 tsp garam masala powder",
+                    "1 tsp turmeric powder",
+                    "Salt to taste",
+                    "2-3 tbsp mustard oil"
+                ],
+                "cooking_method": [
+                    "Heat mustard oil in a pan and add the sliced onions.",
+                    "Fry until the onions turn golden brown.",
+                    "Add the ginger and garlic paste and fry until the raw smell goes away.",
+                    "Add the beef pieces and mix well.",
+                    "Add the cumin powder, coriander powder, turmeric powder and salt to taste.",
+                    "Mix well and cover the pan with a lid.",
+                    "Cook on low flame for 30-40 minutes or until the beef is well-cooked.",
+                    "Add the garam masala powder and slit green chillies.",
+                    "Mix well and cook for another 5-10 minutes.",
+                    "Serve hot with steamed rice or roti."
+                ],
+                "rating": 4.8
+            },
+            {
+                "id": 2,
+                "img": "https://www.slurrp.com/web/_next/image?url=https%3A%2F%2Fimages.slurrp.com%2Fprod%2Frecipe_images%2Fwhiskaffair%2Faloo-posto-1617379819_IVU2AX5CAETGEBP3NRKX.webp%3Fimpolicy%3Dslurrp-20210601%26width%3D1200%26height%3D675&w=1920&q=75",
+                "name": "Alu Posto",
+                "ingredients": [
+                    "4-5 medium-sized potatoes, peeled and cut into small pieces",
+                    "3-4 tbsp poppy seeds",
+                    "1-2 green chillies, finely chopped",
+                    "1/2 tsp turmeric powder",
+                    "1/2 tsp red chilli powder",
+                    "Salt to taste",
+                    "1-2 tbsp mustard oil"
+                ],
+                "method": [
+                    "Soak the poppy seeds in water for 1-2 hours and grind them to a smooth paste.",
+                    "Heat mustard oil in a pan and add the chopped green chillies.",
+                    "Add the potato pieces and stir well.",
+                    "Add turmeric powder, red chilli powder and salt to taste.",
+                    "Add the poppy seed paste and mix well.",
+                    "Add some water and cover the pan with a lid.",
+                    "Cook for 10-15 minutes on low flame until the potatoes are soft and well-cooked.",
+                    "Serve hot with steamed rice."
+                ],
+                "rating": 4.3
+              }
+        ]
     }
 ]
