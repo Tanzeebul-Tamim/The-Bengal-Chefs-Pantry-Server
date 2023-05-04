@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "title": "Keep your knives sharp",
+      "description": "A sharp knife is safer than a dull one because it requires less force to cut through food and is less likely to slip and cause injury. Use a honing steel to keep your knives sharp between professional sharpenings.",
+      "image": "https://www.marthastewart.com/thmb/DIsfgA9BF0LWxGC_vQNHxKluSD4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-sharpen-knives-getty-0223-2000-61e739deb0e8458e9f4710a16b80caaf.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Use a meat thermometer",
+      "description": "Cooking meat to the right temperature is crucial for both food safety and taste. Use a meat thermometer to ensure your meat is cooked to the appropriate temperature, and let it rest for a few minutes before cutting to allow the juices to redistribute.",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/underscored-best-tested-products-meat-thermometer-oxo-good-grips-thermocouple-thermometer-lifestyle-shot.jpeg?q=w_1600,h_900,x_0,y_0,c_crop/h_720,w_1280/f_webp"
+    },
+    {
+      "id": 3,
+      "title": "Preheat your pans",
+      "description": "Preheating your pans before cooking allows food to cook evenly and prevents sticking. Heat your pan on medium-high heat for a few minutes before adding oil or food.",
+      "image": "https://cdn.sanity.io/images/bow86i8j/production/6b9dedf603098aa0540dc6b9ddcd6a3892b14a9c-1800x1000.jpg?fm=webp&q=75&w=1280"
+    },
+    {
+      "id": 4,
+      "title": "Salt your pasta water",
+      "description": "Adding salt to your pasta water enhances the flavor of the pasta and helps to season the dish as a whole. Use about 1-2 tablespoons of salt per gallon of water, and add it after the water comes to a boil but before adding the pasta.",
+      "image": "https://www.thedailymeal.com/img/gallery/why-its-so-critically-important-to-properly-salt-your-pasta-water/intro-1668534227.webp"
+    },
+    {
+      "id": 5,
+      "title": "Properly season your cast iron pans",
+      "description": "To season your cast iron pans, start by preheating your oven to 375°F. Rub a thin layer of vegetable oil or melted shortening all over the pan, including the outside and handle. Place the pan upside down on the oven rack and bake for 1 hour. Turn off the oven and let the pan cool completely inside. Repeat this process every few months to maintain the seasoning.",
+      "image": "https://i.ytimg.com/vi/KLGSLCaksdY/maxresdefault.jpg"
+    }
+]
+  
