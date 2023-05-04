@@ -5,7 +5,8 @@
         "img": "http://rhtibd.com/wp-content/uploads/2020/10/MG_2629-scaled.jpg",
         "experience": "10+",
         "recipes": 58,
-        "likes": 118
+        "likes": 118,
+        "description": "Awlad Hossain is a seasoned chef with over a decade of experience in the culinary industry. He is known for his expertise in creating unique and flavorful dishes that blend traditional and modern techniques."
     },
     {
         "id": 2,
@@ -13,7 +14,8 @@
         "img": "http://rhtibd.com/wp-content/uploads/2020/10/PicsArt_10-25-10.30.02.jpg",
         "experience": "7",
         "recipes": 16,
-        "likes": 72
+        "likes": 72,
+        "description": "S M Sadi is a rising star in the culinary world. Despite having only seven years of experience, he has already made a name for himself with his creative and innovative dishes that showcase his passion for cooking."
     },
     {
         "id": 3,
@@ -21,7 +23,8 @@
         "img": "https://pbs.twimg.com/media/EcbWQBSVcAYy8N3?format=jpg&name=900x900",
         "experience": "17+",
         "recipes": 72,
-        "likes": 84
+        "likes": 84,
+        "description": "Tony Khan is a veteran chef with over 17 years of experience in the culinary industry. He is known for his attention to detail and his ability to create dishes that are both visually stunning and delicious."
     },
     {
         "id": 4,
@@ -29,7 +32,8 @@
         "img": "https://stylecaster.com/wp-content/uploads/2021/08/pali-hill.png?resize=444,670",
         "experience": "6",
         "recipes": 12,
-        "likes": 212
+        "likes": 212,
+        "description": "Avinash Shishadira is a young and talented chef who specializes in creating dishes that highlight the flavors and spices of his native India. Despite his relative lack of experience, he has already made a name for himself in the culinary world."
     },
     {
         "id": 5,
@@ -37,7 +41,8 @@
         "img": "https://media.licdn.com/dms/image/C5603AQHFMeExxDbMlg/profile-displayphoto-shrink_800_800/0/1624095370362?e=2147483647&v=beta&t=lhM7wojNL9ioVn6fw9VSXr5cIS0zl3m1bdONfxuFLDU",
         "experience": "3",
         "recipes": 8,
-        "likes": 56
+        "likes": 56,
+        "description": "Palash M. is a young chef who is just getting started in the culinary industry. He is known for his innovative and experimental dishes that blend traditional and modern techniques, and he is quickly gaining a reputation as one to watch in the coming years."
     },
     {
         "id": 6,
@@ -45,7 +50,8 @@
         "img": "https://scontent.fdac24-1.fna.fbcdn.net/v/t31.18172-8/12495956_10153798718279590_8366480711471226716_o.jpg?_nc_cat=100&ccb=1-7&_nc_sid=9267fe&_nc_eui2=AeFTF8soiVqNx-qBWCvwKMuUVYpqznjWxrpVimrOeNbGuouZ-ZYMpCspzBhl4z6SGrZzLT0TQ5_LFI2SnQxBYaeU&_nc_ohc=1O6_Yr2WW-cAX_AvWJt&_nc_ht=scontent.fdac24-1.fna&oh=00_AfDeVb_uZttx53sN7xdjg-6CCk-tqNxzNLdwhEF9g_F_OQ&oe=647A43C8",
         "experience": "10+",
         "recipes": 66,
-        "likes": 290
+        "likes": 290,
+        "description": "Ahmed Wahid is a skilled chef with over 10 years of experience in the culinary industry. He has a passion for creating delicious and innovative dishes that are both visually appealing and satisfying to the palate. Ahmed's extensive experience and knowledge have allowed him to develop a unique culinary style that is both creative and rooted in tradition."
     },
     {
         "id": 7,
@@ -53,7 +59,8 @@
         "img": "https://scontent.fdac24-4.fna.fbcdn.net/v/t31.18172-8/29872732_10156349246587392_5306143844753178892_o.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHGwuTF1VzESprkAqKP1NQmK4fIaccQBy4rh8hpxxAHLm4V8BnyaRXtwepFWqm7txwEE9rJ4r1YQC3w_5T3HxQr&_nc_ohc=Nuu24ICwZF0AX8mu_-_&_nc_ht=scontent.fdac24-4.fna&oh=00_AfDvefrrXyDMUJukYK8koa8p7WfYJ41SfDAY7EP1Gi_ITA&oe=647A4F01",
         "experience": "7",
         "recipes": 12,
-        "likes": 122
+        "likes": 122,
+        "description": "Rakesh Majumdar is a passionate and creative chef with 7 years of experience in the culinary world. His unique approach to cooking is inspired by his Indian heritage, which is reflected in his dishes' bold and aromatic flavors. Rakesh's talent for experimenting with different ingredients and techniques has led him to develop a diverse culinary style that is both exciting and delicious."
     },
     {
         "id": 8,
@@ -61,6 +68,7 @@
         "img": "https://www.bbcgoodfoodme.com/wp-content/uploads/2022/12/Faisal-Naser-Founder_Chef-LENTO_1-768x1151.jpg",
         "experience": "9",
         "recipes": 38,
-        "likes": 98
+        "likes": 98,
+        "description": "Faisal Shikder is a chef with 9 years of experience in the culinary industry. He is known for his modern take on traditional dishes, using locally sourced ingredients to create unique and flavorful dishes. Faisal is the founder and head chef of Lento, a popular restaurant that combines contemporary design with a relaxed atmosphere. He has been featured in several food magazines and has won multiple awards for his culinary skills."
     }
 ]

@@ -1,0 +1,32 @@
+[
+    {
+      "id": 0,
+      "title": "Add Leafy Greens to Your Diet",
+      "description": "Leafy greens are packed with nutrients, including vitamins A, C, and K, as well as fiber and antioxidants. Adding them to your diet can help improve digestion, reduce inflammation, and lower the risk of chronic diseases.",
+      "image": "https://blog-images-1.pharmeasy.in/blog/production/wp-content/uploads/2021/01/04140120/shutterstock_390988804-1-768x512.jpg"
+    },
+    {
+      "id": 1,
+      "title": "Reduce Sugar Intake",
+      "description": "Eating too much sugar can lead to a host of health problems, including obesity, type 2 diabetes, and heart disease. Try to limit your intake of sugary drinks and processed foods, and opt for whole foods instead.",
+      "image": "https://i.dietdoctor.com/wp-content/uploads/2019/11/Norway-reduces-sugar-consumption.jpg?auto=compress%2Cformat&w=800&h=450&fit=crop"
+    },
+    {
+      "id": 2,
+      "title": "Choose Whole Grains",
+      "description": "Whole grains are a good source of fiber, vitamins, and minerals, and can help reduce the risk of heart disease, stroke, and type 2 diabetes. Look for whole grain breads, pasta, and cereals, and try to avoid refined grains.",
+      "image": "https://www.mysouthernhealth.com/wp-content/uploads/2016/09/whole_grain_SLIDER_shutterstock_268572185-scaled.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Eat More Fruits and Vegetables",
+      "description": "Fruits and vegetables are high in fiber, vitamins, and minerals, and can help reduce the risk of chronic diseases like cancer and heart disease. Aim to eat a variety of different colors and types of fruits and vegetables each day.",
+      "image": "https://domf5oio6qrcr.cloudfront.net/medialibrary/11499/3b360279-8b43-40f3-9b11-604749128187.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Incorporate Healthy Fats",
+      "description": "Not all fats are bad for you. In fact, healthy fats like those found in nuts, seeds, and avocados can help reduce inflammation and lower the risk of chronic diseases. Just be sure to eat them in moderation.",
+      "image": "https://intermountainhealthcare.org/-/media/images/modules/blog/posts/2017/03/heart-healthy-fats-blog.jpg?la=en&h=504&w=896&mw=896&hash=C49F38EB7CBAC54B605AC8CFBFF3A2E2668E348A"
+    }
+  ]
