@@ -38,8 +38,8 @@
               },
               {
                 "id": 2,
-                "img": "h",
-                "name": "https://www.slurrp.com/web/_next/image?url=https%3A%2F%2Fimages.slurrp.com%2Fprod%2Frecipe_images%2Ftranscribe%2Fdessert%2FMishti-doi.webp%3Fimpolicy%3Dslurrp-20210601%26width%3D1200%26height%3D675&w=1920&q=75",
+                "img": "https://www.slurrp.com/web/_next/image?url=https%3A%2F%2Fimages.slurrp.com%2Fprod%2Frecipe_images%2Ftranscribe%2Fdessert%2FMishti-doi.webp%3Fimpolicy%3Dslurrp-20210601%26width%3D1200%26height%3D675&w=1920&q=75",
+                "name": "Mishti Doi",
                 "ingredients": [
                   "Milk",
                   "Sugar",
@@ -281,7 +281,7 @@
                     "Salt to taste",
                     "2-3 tbsp mustard oil"
                 ],
-                "cooking_method": [
+                "method": [
                     "Heat mustard oil in a pan and add the sliced onions.",
                     "Fry until the onions turn golden brown.",
                     "Add the ginger and garlic paste and fry until the raw smell goes away.",
@@ -325,8 +325,8 @@
               },
               {
                 "id": 3,
-                "img": "h",
-                "name": "https://www.slurrp.com/web/_next/image?url=https%3A%2F%2Fimages.slurrp.com%2Fprod%2Frecipe_images%2Ftranscribe%2Fdessert%2FMishti-doi.webp%3Fimpolicy%3Dslurrp-20210601%26width%3D1200%26height%3D675&w=1920&q=75",
+                 "img": "https://www.slurrp.com/web/_next/image?url=https%3A%2F%2Fimages.slurrp.com%2Fprod%2Frecipe_images%2Ftranscribe%2Fdessert%2FMishti-doi.webp%3Fimpolicy%3Dslurrp-20210601%26width%3D1200%26height%3D675&w=1920&q=75",
+                "name": "Mishti Doi",
                 "ingredients": [
                   "Milk",
                   "Sugar",
@@ -468,7 +468,7 @@
     {
         "id": 5,
         "name": "Palash M.",
-        "img": "https://media.licdn.com/dms/image/C5603AQHFMeExxDbMlg/profile-displayphoto-shrink_800_800/0/1624095370362?e=2147483647&v=beta&t=lhM7wojNL9ioVn6fw9VSXr5cIS0zl3m1bdONfxuFLDU",
+        "img": "https://ifcaindia.org/wp-content/uploads/2020/02/Chef-Sabyasachi-Gorai-President-YCAI-min.jpg",
         "experience": "3",
         "recipes": 8,
         "likes": 56,
@@ -567,7 +567,7 @@
                     "Salt to taste",
                     "2-3 tbsp mustard oil"
                 ],
-                "cooking_method": [
+                "method": [
                     "Heat mustard oil in a pan and add the sliced onions.",
                     "Fry until the onions turn golden brown.",
                     "Add the ginger and garlic paste and fry until the raw smell goes away.",
@@ -650,8 +650,8 @@
               },
               {
                 "id": 2,
-                "img": "h",
-                "name": "https://www.slurrp.com/web/_next/image?url=https%3A%2F%2Fimages.slurrp.com%2Fprod%2Frecipe_images%2Ftranscribe%2Fdessert%2FMishti-doi.webp%3Fimpolicy%3Dslurrp-20210601%26width%3D1200%26height%3D675&w=1920&q=75",
+                 "img": "https://www.slurrp.com/web/_next/image?url=https%3A%2F%2Fimages.slurrp.com%2Fprod%2Frecipe_images%2Ftranscribe%2Fdessert%2FMishti-doi.webp%3Fimpolicy%3Dslurrp-20210601%26width%3D1200%26height%3D675&w=1920&q=75",
+                "name": "Mishti Doi",
                 "ingredients": [
                   "Milk",
                   "Sugar",
@@ -763,7 +763,7 @@
                     "Salt to taste",
                     "2-3 tbsp mustard oil"
                 ],
-                "cooking_method": [
+                "method": [
                     "Heat mustard oil in a pan and add the sliced onions.",
                     "Fry until the onions turn golden brown.",
                     "Add the ginger and garlic paste and fry until the raw smell goes away.",
@@ -952,7 +952,7 @@
                     "Salt to taste",
                     "2-3 tbsp mustard oil"
                 ],
-                "cooking_method": [
+                "method": [
                     "Heat mustard oil in a pan and add the sliced onions.",
                     "Fry until the onions turn golden brown.",
                     "Add the ginger and garlic paste and fry until the raw smell goes away.",
@@ -967,7 +967,7 @@
                 "rating": 4.8
             },
             {
-                "id": 2,
+                "id": 4,
                 "img": "https://www.slurrp.com/web/_next/image?url=https%3A%2F%2Fimages.slurrp.com%2Fprod%2Frecipe_images%2Fwhiskaffair%2Faloo-posto-1617379819_IVU2AX5CAETGEBP3NRKX.webp%3Fimpolicy%3Dslurrp-20210601%26width%3D1200%26height%3D675&w=1920&q=75",
                 "name": "Alu Posto",
                 "ingredients": [
