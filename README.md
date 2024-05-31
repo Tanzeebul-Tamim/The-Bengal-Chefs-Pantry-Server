@@ -52,7 +52,7 @@ Welcome to the server-side repository of The Bengal Chefs' Pantry, a dedicated w
 1. Clone the repository:
     ```bash
     git clone https://github.com/Tanzeebul-Tamim/The-Bengal-Chefs-Pantry-Server
-    cd the-chefs-pantry-server
+    cd The-Bengal-Chefs-Pantry-Server
     ```
 
 2. Install dependencies:
