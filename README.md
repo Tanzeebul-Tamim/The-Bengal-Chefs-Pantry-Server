@@ -70,7 +70,7 @@ PORT=5000
 
 ## Live Server
 
-The server is deployed [at this following URL](https://chefs-pentry-server-4lg1rnncd-tamim-200091-yahoocom.vercel.app/)
+The server is deployed on [this following URL](https://chefs-pentry-server-4lg1rnncd-tamim-200091-yahoocom.vercel.app/)
 
 ## Running the Application
 
