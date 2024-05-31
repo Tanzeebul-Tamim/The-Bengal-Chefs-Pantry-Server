@@ -1,6 +1,6 @@
-# The Chefs' Pantry - Server Side
+# The Bengal Chefs' Pantry - Server Side
 
-Welcome to the server-side repository of The Chefs' Pantry, a dedicated website showcasing the finest recipes from the best chefs. This server handles API requests.
+Welcome to the server-side repository of The Bengal Chefs' Pantry, a dedicated website showcasing the finest recipes from the best chefs. This server handles API requests.
 
 ## Table of Contents
 - [Features](#features)
@@ -12,7 +12,7 @@ Welcome to the server-side repository of The Chefs' Pantry, a dedicated website 
 - [Live Server](#live-server)
 - [Running the Application](#running-the-application)
 - [API Endpoints](#api-endpoints)
-- [Also checkout The-Chefs'-Pantry-Client](#also-checkout-the-chefs-pantry-client)
+- [Also Checkout The Bengal Chefs' Pantry - Client](#also-checkout-the-bengal-chefs-pantry-client)
 - [Contributing](#contributing)
 
 ## Features
@@ -51,7 +51,7 @@ Welcome to the server-side repository of The Chefs' Pantry, a dedicated website 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Tanzeebul-Tamim/Chefs-Pantry-Server
+    git clone https://github.com/Tanzeebul-Tamim/The-Bengal-Chefs-Pantry-Server
     cd the-chefs-pantry-server
     ```
 
@@ -88,9 +88,9 @@ The server is deployed [at this following URL](https://chefs-pentry-server-4lg1r
 - ***GET*** `/tips`: Retrieve all tips and tricks.
 - ***GET*** `/healthtips`: Retrieve all health tips.
 
-## Also checkout The-Chef's-Pantry-Client
+## Also checkout The-Bengal-Chefs-Pantry-Client
 
-Visit the client-side repository of [The Chef's Pantry](https://github.com/Tanzeebul-Tamim/Chefs-Pantry-Client) website
+Visit the client-side repository of [The Bengal Chefs' Pantry](https://github.com/Tanzeebul-Tamim/The-Bengal-Chefs-Pantry-Client) website
 
 ## Contributing
 
