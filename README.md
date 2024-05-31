@@ -70,7 +70,7 @@ PORT=5000
 
 ## Live Server
 
-The server is deployed at: https://chefs-pentry-server-4lg1rnncd-tamim-200091-yahoocom.vercel.app/
+The server is deployed [at this following URL](https://chefs-pentry-server-4lg1rnncd-tamim-200091-yahoocom.vercel.app/)
 
 ## Running the Application
 
@@ -90,7 +90,7 @@ The server is deployed at: https://chefs-pentry-server-4lg1rnncd-tamim-200091-ya
 
 ## Also checkout The-Chef's-Pantry-Client
 
-Visit the client-side repository of The Chef's Pantry website - [The-Chef's-Pantry-Client](https://github.com/Tanzeebul-Tamim/Chefs-Pantry-Client)
+Visit the client-side repository of [The Chef's Pantry](https://github.com/Tanzeebul-Tamim/Chefs-Pantry-Client) website
 
 ## Contributing
 
