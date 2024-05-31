@@ -81,12 +81,12 @@ The server is deployed [at this following URL](https://chefs-pentry-server-4lg1r
 
 ## API Endpoints
 
-- **GET** `/`: Health check endpoint. Returns a simple message indicating the server is running.
-- **GET** `/bannerdishes`: Retrieve all banner dishes.
-- **GET** `/headlines`: Retrieve all headlines.
-- **GET** `/chefs`: Retrieve all chefs.
-- **GET** `/tips`: Retrieve all tips and tricks.
-- **GET** `/healthtips`: Retrieve all health tips.
+- ***GET*** `/`: Health check endpoint. Returns a simple message indicating the server is running.
+- ***GET*** `/bannerdishes`: Retrieve all banner dishes.
+- ***GET*** `/headlines`: Retrieve all headlines.
+- ***GET*** `/chefs`: Retrieve all chefs.
+- ***GET*** `/tips`: Retrieve all tips and tricks.
+- ***GET*** `/healthtips`: Retrieve all health tips.
 
 ## Also checkout The-Chef's-Pantry-Client
 
