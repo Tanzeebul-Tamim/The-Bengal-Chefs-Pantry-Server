@@ -14,6 +14,7 @@ Welcome to the server-side repository of The Bengal Chefs' Pantry, a dedicated w
 - [API Endpoints](#api-endpoints)
 - [Also Checkout The Bengal Chefs' Pantry - Client](#also-checkout-the-bengal-chefs-pantry-client)
 - [Contributing](#contributing)
+- [License](#license)
 
 ## Features
 
