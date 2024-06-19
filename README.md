@@ -1,4 +1,4 @@
-# The Bengal Chefs' Pantry - Server Side
+# <img src="https://github.com/Tanzeebul-Tamim/The-Bengal-Chefs-Pantry-Client/blob/main/public/icon.png" alt="Logo" width="70"/> The Bengal Chefs' Pantry - Server Side
 
 Welcome to the server-side repository of The Bengal Chefs' Pantry, a dedicated website showcasing the finest recipes from the best chefs. This server handles API requests.
 
